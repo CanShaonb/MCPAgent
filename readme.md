@@ -18,7 +18,7 @@ pip install -r requirements.txt
 ```
 
 ### 3. 部署 DuckDuckGo MCP 服务器
-预先部署 [DuckDuckGo MCP Server](https://github.com/nickclyde/duckduckgo-mcp-server)，以便 Python 程序后续调用。
+预先部署 [DuckDuckGo MCP Server](https://github.com/nickclyde/duckduckgo-mcp-server)，以便 Python 程序后续调用（建议运行时科学上网）。
 
 
 
