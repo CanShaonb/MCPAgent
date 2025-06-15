@@ -12,6 +12,8 @@ conda activate myenv
 
 ### 2. 安装依赖包
 ```bash
+cd MCPAgent
+
 pip install -r requirements.txt
 ```
 
