@@ -22,4 +22,7 @@ pip install -r requirements.txt
 
 
 
-## 使用说明见视频
+## 使用说明见视频:
+
+【金山文档 | WPS云文档】 6.15号框架与使用介绍
+https://www.kdocs.cn/view/media/l/crGPOkOe56Wf
