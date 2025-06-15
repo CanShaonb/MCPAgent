@@ -5,7 +5,9 @@
 
 ### 1. 激活 Conda 环境
 ```bash
-conda activate --name myenv python=3.12
+conda create --name myenv python=3.12
+
+conda activate myenv
 ```
 
 ### 2. 安装依赖包
